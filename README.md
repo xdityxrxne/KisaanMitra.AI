@@ -171,9 +171,9 @@ Time-series analysis and demand forecasting predict optimal harvest timing and s
 
 ## 👥 Team
 
-- **Aditya Rane** - Project Manager, Agile Delivery Strategy
+- **Aditya Rane** - Advanced Analytics, Data Science, Agentic AI
 - **Vinay Patil** - Lead Engineer, Backend AI Systems, Cloud Architecture
-- **Parth Nikam** - Advanced Analytics, Data Science, Agentic AI
+- **Parth Nikam** - Project Manager, Agile Delivery Strategy
 
 ---
 
